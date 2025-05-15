@@ -7,7 +7,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBuarqueDev&show_icons=true&theme=radical)
 
-![Github status](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBuarqueDev&theme=radical)
+  <div>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBuarqueDev&layout=compact&hide_border=true&tilte_color&text_color=00bfbf&bg_color=0d1117"/>
+  </div>
 # Tecnologias que estou familiarizado:
 
 
